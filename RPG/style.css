@@ -1,0 +1,13 @@
+body{
+    text-align: center;
+    }
+    canvas{
+    border: 2px solid black;
+    background-image: url(images/grasses68.gif);
+    }
+    #talkBox{
+    height: 20px;
+    color: brown;
+    font-size: 26px;
+    font-weight: bold;
+    }

@@ -1,0 +1,18 @@
+.Contact-styled{
+    margin: 0px 10px;
+    float: left;
+}
+
+.content_style
+	{
+		width:100%;
+		height:350px;
+		padding-top:0px;
+		margin-top:0px;
+		margin-left:0%;
+		margin-right:0%;
+        background-color: #dbdbdb;
+	}
+.self_img{
+    margin: 0px 50px;
+}

@@ -1,0 +1,53 @@
+body{
+    text-align: center;
+    background-image: url(heart-bg.jpg);
+}
+img{
+    width:60px;
+    height:60px;
+    border-radius: 50%;
+}
+.chatOdd img{
+    float:left;
+    
+}
+.chatEven img{
+    float:right;
+}
+.textLeft{
+    margin:20px 80px;
+    padding:5px;
+    border-radius: 10px;
+    
+}
+.textRight{
+    height:85px;
+    margin:20px 80px;
+    padding:5px;
+    border-radius: 10px;
+    
+}
+.textLeft{
+    background-color: lightblue;
+}
+.textRight{
+    background-color: rgb(255, 228, 232);
+}
+.triAngleToLeft{
+    border-color: transparent rgb(255, 228, 232) transparent transparent;
+    border-style: solid;
+    border-width: 10px;
+    width: 0px;
+    height: 0px;
+    float: left;
+    margin-top: 10px;
+}
+.triAngleToRight{
+    border-color: transparent  transparent transparent lightblue;
+    border-style: solid;
+    border-width: 10px;
+    width: 0px;
+    height: 0px;
+    float: right;
+    margin-top: 10px;
+}
